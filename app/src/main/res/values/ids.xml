@@ -1,0 +1,8 @@
+<resources>
+    <item type="id" name="usage_summary" />
+    <item type="id" name="enabled_switch" />
+    <item type="id" name="warning_minutes" />
+    <item type="id" name="confirm_minutes" />
+    <item type="id" name="save_settings" />
+    <item type="id" name="confirm_reminder" />
+</resources>

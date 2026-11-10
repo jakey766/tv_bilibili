@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">小电视提醒</string>
+    <string name="target_client">计时客户端：%1$s</string>
+    <string name="countdown">%1$d 秒后自动关闭</string>
+    <string name="accessibility_description">识别所选哔哩哔哩应用是否在前台，累计当天使用时长，并显示观看时间提醒。仅在本机处理，不读取视频内容，不上传数据。启用后请返回应用选择要计时的客户端。</string>
+</resources>
